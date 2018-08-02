@@ -1,0 +1,7 @@
+LAS CONTRASEÑAS DE LA BASE DE DATOS ESTÁN ENCRIPTADAS:
+
+Usuario: Admin
+Contraseña: asd123
+
+Usuario: usuario
+Contraseña: qwe123
